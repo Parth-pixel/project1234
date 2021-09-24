@@ -1,0 +1,195 @@
+h1 {
+    color: rgb(255,0,0) ; font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 30px;
+    font-family: fantasy;
+    
+}
+.Header{
+    background-color: rgba(10, 255, 194, 3); border: rgb(65,105,225);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 30px;
+    font-family: fantasy;
+    
+}
+
+.Sub-header{
+    background-color: rgb(150, 75, 0);
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px;
+    padding: 30px;
+    font-family: fantasy;
+    border: 2px;
+    border-radius: 50px;
+}
+.Camel {
+    background-color: rgb(158, 130, 111); 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 30px;
+    font-family: fantasy;
+    border: 2px;
+    border-radius: 50px;
+}
+
+.Chameleon{
+    background-color:rgb(131, 224, 224); 
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 30px;
+    font-family: fantasy;
+    border: 2px;
+    border-radius: 50px;
+}
+.Pigeon{
+    background-color: rgb(184, 184, 184); 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 30px;
+    font-family: fantasy;
+    border: 2px;
+    border-radius: 50px;
+}
+.Teddy-bear{
+    background-color: #faebd7; 
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 30px;
+    font-family: fantasy;
+    border: 2px;
+    border-radius: 50px;
+}
+.Panda{
+    background-color:rgb(184, 184, 184); 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 30px;
+    font-family: fantasy;
+    border: 2px;
+    border-radius: 50px;
+}
+.Flying-cicada{
+    background-color: rgb(255, 235, 205); 
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 30px;
+    font-family: fantasy;
+    border: 2px;
+    border-radius: 50px;
+}
+.Origami{
+    background-color: rgb(127, 255, 212); border: blue;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 30px;
+    font-family: fantasy;
+
+}
+.Camel ol{
+   
+    opacity: 0;
+}
+.Camel h2{
+   
+    opacity: 0;
+}
+.Camel:hover ol{
+    opacity: 1;
+}
+.Camel:hover h2{
+    opacity: 1;
+}
+.Chameleon ol{
+    opacity: 0;
+}
+.Chameleon h2{
+    opacity: 0;
+}
+.Chameleon:hover ol{
+    opacity: 1;
+}
+.Chameleon:hover h2{
+    opacity: 1;
+}
+.Pigeon ol{
+    opacity: 0;
+}
+.Pigeon h2{
+    opacity: 0;
+}
+.Pigeon:hover ol{
+    opacity: 1;
+}
+.Pigeon:hover h2{
+    opacity: 1;
+}
+.Panda h2{
+   
+    opacity: 0;
+}
+.Panda ol{
+   
+    opacity: 0;
+}
+.Panda:hover ol{
+    opacity: 1;
+}
+.Panda:hover h2{
+    opacity: 1;
+}
+.Panda:hover ol{
+    opacity: 1;
+}
+.Teddy-bear ol{
+    opacity: 0;
+}
+.Teddy-bear h2{
+    opacity: 0;
+}
+.Teddy-bear:hover ol{
+    opacity: 1;
+}
+.Teddy-bear:hover h2{
+    opacity: 1;
+}
+.Flying-cicada h2{
+   
+    opacity: 0;
+}
+.Flying-cicada ol{
+   
+    opacity: 0;
+}
+.Flying-cicada:hover ol{
+    opacity: 1;
+}
+.Panda:hover h2{
+    opacity: 1;
+}
+.Panda:hover ol{
+    opacity: 1;
+}
+
+body{
+    margin: 0px;
+    padding: 30px;
+    
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:white;
+}
